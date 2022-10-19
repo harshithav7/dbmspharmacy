@@ -1,1 +1,1 @@
-# pharmarcy
+# pharmacy
